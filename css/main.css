@@ -1,0 +1,42 @@
+body {
+    background-color: linen;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+nav li {
+    display: inline;
+}
+
+header h1 {
+    text-align: center;
+}
+
+.main-content {
+    display: flex;
+}
+
+img {
+    width: 50%;
+}
+main {
+    flex: 3;
+}
+
+aside {
+    flex: 1;
+}
+
+.gallery {
+    display: flex;
+
+}
+
+.gallery section {
+    max-width: 200px;
+    margin: 1em 2em;
+}
