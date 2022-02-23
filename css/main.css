@@ -19,6 +19,10 @@ nav li {
 header h1 {
     text-align: center;
 }
+
+div > section h3 {
+    color: red;
+}
 a {
     outline: none;
     text-decoration: none;
